@@ -1,0 +1,169 @@
+/* Reset */
+
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+/* Navbar */
+
+nav {
+  background-color: #373a3c;
+}
+
+nav h1 {
+  font-size: 2.3rem !important;
+  font-family: "Lobster", cursive;
+}
+
+/* Hero-Section */
+
+#main-photo img {
+  width: 34rem;
+}
+
+#text-box button {
+  color: #373a3c !important;
+  font-weight: 500 !important;
+}
+
+#text-box h1,
+h5 {
+  font-family: "Cabin", sans-serif;
+  font-weight: 700;
+  color: #373a3c;
+  width: 75%;
+}
+
+.carousel-indicators {
+  top: 100%;
+}
+
+.carousel-indicators button {
+  width: 0.75rem !important;
+  height: 0.75rem !important;
+  background-color: #373a3c !important;
+  border-radius: 50%;
+  margin-top: 1rem;
+}
+
+.carousel-inner img {
+  width: 14.5rem;
+  height: 10.6rem;
+}
+
+hr {
+  height: 0.1rem;
+  width: 100%;
+  color: #000000;
+  opacity: 1;
+}
+
+/* Ingredientes */
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#ingredientes {
+  font-family: "Cabin", sans-serif;
+  font-weight: 400;
+}
+
+/* Preparación */
+
+#preparacion {
+  font-family: "Cabin", sans-serif;
+  font-weight: 400;
+}
+
+/* Recetas */
+
+#recetas h2 {
+  font-family: "Cabin", sans-serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+  color: #373a3c;
+}
+
+#recetas .image-top {
+  height: 15rem;
+}
+
+#recetas .card-body {
+  height: 12rem;
+}
+
+.card-title {
+  font-family: "Cabin", sans-serif;
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: #373a3c;
+  width: 100%;
+}
+
+.card-text {
+  font-family: "Cabin", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  color: #373a3c;
+}
+
+#newsletter {
+  background-color: #dc3545;
+  height: 100;
+}
+
+#newsletter h2 {
+  font-family: "Cabin", sans-serif;
+  font-weight: 700;
+  font-size: 1.87rem;
+}
+
+#newsletter p {
+  font-family: "Cabin", sans-serif;
+  font-weight: 400;
+  font-size: 1.25rem;
+}
+
+#newsletter span {
+  font-family: "Lobster", cursive;
+}
+
+#newsletter button {
+  display: block;
+  margin: 0 auto;
+  width: 14.5rem;
+}
+
+footer {
+  background-color: #373a3c;
+  font-family: "Lobster", cursive;
+  font-size: 2.3rem;
+}
+
+/* Line Breaks */
+
+.hr2 {
+  height: 0.15rem;
+  width: 99%;
+  color: #000000;
+  opacity: 1;
+}
+
+.hr3 {
+  height: 0.08rem;
+  width: 31%;
+  color: #000000;
+  opacity: 1;
+}
+
+.hr4 {
+  height: 0.1rem;
+  width: 99%;
+  color: #000000;
+  opacity: 1;
+}
